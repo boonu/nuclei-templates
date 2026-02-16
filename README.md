@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-Nuclei Templates
+Nuclei Templates testing
 </h1>
 <h4 align="center">Community curated list of templates for the nuclei engine to find security vulnerabilities in applications.</h4>
 
